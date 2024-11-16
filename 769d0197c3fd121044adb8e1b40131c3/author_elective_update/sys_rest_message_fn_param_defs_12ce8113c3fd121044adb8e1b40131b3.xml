@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="DELETE">
+        <name>displayPercentage</name>
+        <order>100</order>
+        <rest_message_function display_value="Default GET">a6fd4117c3fd121044adb8e1b4013172</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 08:36:50</sys_created_on>
+        <sys_id>12ce8113c3fd121044adb8e1b40131b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>displayPercentage</sys_name>
+        <sys_package display_value="IPLookup" source="x_665196_iplookup">769d0197c3fd121044adb8e1b40131c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">769d0197c3fd121044adb8e1b40131c3</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_12ce8113c3fd121044adb8e1b40131b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 08:36:50</sys_updated_on>
+        <value>true</value>
+    </sys_rest_message_fn_param_defs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">769d0197c3fd121044adb8e1b40131c3</application>
+        <file_path/>
+        <instance_id>c921e6261b2a79509377eb9b2d4bcb82</instance_id>
+        <instance_name>dev217663</instance_name>
+        <name>sys_rest_message_fn_param_defs_12ce8113c3fd121044adb8e1b40131b3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_param_defs"><sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE"><name>displayPercentage</name><order>100</order><rest_message_function display_value="Default GET">a6fd4117c3fd121044adb8e1b4013172</rest_message_function><sys_class_name>sys_rest_message_fn_param_defs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-16 08:36:50</sys_created_on><sys_id>12ce8113c3fd121044adb8e1b40131b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>displayPercentage</sys_name><sys_package display_value="IPLookup" source="x_665196_iplookup">769d0197c3fd121044adb8e1b40131c3</sys_package><sys_policy/><sys_scope display_value="IPLookup">769d0197c3fd121044adb8e1b40131c3</sys_scope><sys_update_name>sys_rest_message_fn_param_defs_12ce8113c3fd121044adb8e1b40131b3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-16 08:36:50</sys_updated_on><value>true</value></sys_rest_message_fn_param_defs></record_update>]]></payload>
+        <payload_hash>-1861248195</payload_hash>
+        <record_name>displayPercentage</record_name>
+        <reverted_from/>
+        <source>f29d0197c3fd121044adb8e1b40131c7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 08:36:50</sys_created_on>
+        <sys_id>ff9fc5d7c3fd121044adb8e1b4013120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193341e234e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 08:36:50</sys_updated_on>
+        <type>HTTP Query Parameters</type>
+        <update_guid>f39fc5d797fd12106f4297a5acfb7620</update_guid>
+        <update_guid_history>f39fc5d797fd12106f4297a5acfb7620:-1861248195</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-16 08:37:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn_param_defs">sys_rest_message_fn_param_defs</sys_db_object>
+        <sys_id>e8e3264477c8479299cc3e8475a9fef9</sys_id>
+        <sys_metadata>12ce8113c3fd121044adb8e1b40131b3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>displayPercentage</sys_name>
+        <sys_package display_value="IPLookup" source="x_665196_iplookup">769d0197c3fd121044adb8e1b40131c3</sys_package>
+        <sys_parent display_value="GetIPInfo">a6fd4117c3fd121044adb8e1b4013172</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">769d0197c3fd121044adb8e1b40131c3</sys_scope>
+        <sys_scope_delete display_value="">0e602e2ba2d64fd3842750d7c57378a1</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_param_defs_12ce8113c3fd121044adb8e1b40131b3</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_param_defs_12ce8113c3fd121044adb8e1b40131b3">ff9fc5d7c3fd121044adb8e1b4013120</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-16 08:37:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
